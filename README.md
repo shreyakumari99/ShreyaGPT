@@ -22,7 +22,7 @@ ShreyaGPT is a personal AI assistant developed as a learning project. It is desi
 
 * Text-to-Voice Generator: Add functionality for converting responses into speech.
 
-** Expanded Capabilities: Incorporate additional AI-powered features for enhanced interaction and functionality.
+* Expanded Capabilities: Incorporate additional AI-powered features for enhanced interaction and functionality.
 
 ## Purpose
 
