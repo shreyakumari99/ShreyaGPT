@@ -4,11 +4,11 @@ ShreyaGPT is a personal AI assistant developed as a learning project. It is desi
 
 ## Features
 
-** Interactive Q&A: ShreyaGPT can respond to user questions with relevant answers.
+**  Interactive Q&A: ShreyaGPT can respond to user questions with relevant answers.
 
-** Conversation: Engages in casual conversation to simulate human-like interaction.
+**  Conversation: Engages in casual conversation to simulate human-like interaction.
 
-** Suggestions: Provides useful suggestions based on user inputs and queries.
+**  Suggestions: Provides useful suggestions based on user inputs and queries.
 
 ## Technology Stack
 
