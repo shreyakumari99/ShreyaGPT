@@ -1,29 +1,29 @@
-#ShreyaGPT
+# ShreyaGPT
 
 ShreyaGPT is a personal AI assistant developed as a learning project. It is designed to answer questions, engage in conversations, and provide suggestions. This project demonstrates foundational AI capabilities using Python.
 
-##Features
+## Features
 
-**Interactive Q&A: ShreyaGPT can respond to user questions with relevant answers.
+** Interactive Q&A: ShreyaGPT can respond to user questions with relevant answers.
 
-**Conversation: Engages in casual conversation to simulate human-like interaction.
+** Conversation: Engages in casual conversation to simulate human-like interaction.
 
-**Suggestions: Provides useful suggestions based on user inputs and queries.
+** Suggestions: Provides useful suggestions based on user inputs and queries.
 
-##Technology Stack
+## Technology Stack
 
-**Programming Language: Python
+** Programming Language: Python
 
-**Platform: Replit
+** Platform: Replit
 
-**Integration: Discord bot functionality using a Discord ID
+** Integration: Discord bot functionality using a Discord ID
 
-##Future Enhancements
+## Future Enhancements
 
-**Text-to-Voice Generator: Add functionality for converting responses into speech.
+** Text-to-Voice Generator: Add functionality for converting responses into speech.
 
-**Expanded Capabilities: Incorporate additional AI-powered features for enhanced interaction and functionality.
+** Expanded Capabilities: Incorporate additional AI-powered features for enhanced interaction and functionality.
 
-##Purpose
+## Purpose
 
 This project was created for learning purposes to explore AI development, conversational models, and practical applications of Python programming.
