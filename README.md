@@ -1,5 +1,4 @@
 # ShreyaGPT
-
 ShreyaGPT 🤖 is a personal AI assistant developed as a learning project. It is designed to answer questions, engage in conversations, and provide suggestions. This project demonstrates foundational AI capabilities using Python.
 
 ## Features 🚀
